@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chhoti Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/297e1667ff8088b19512a771403d5b921535c6b1abc61d1b32889c245a0b96e6/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e77656270">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhotimishra13&label=Profile%20views&color=0e75b6&style=flat" alt="chhotimishra13" /> </p>
+
+- 🌱 I’m currently learning **Web development & Java programming language.**
+
+- 👯 I’m looking to collaborate on **exciting and innovative projects that align my skills and interests.**
 
 - 📫 How to reach me **mishrachhoti05@gmail.com**
 
