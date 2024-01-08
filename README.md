@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web development & Java programming language.**
 
-- 👯 I’m looking to collaborate on **exciting and innovative projects that align my skills and interests.**
+- 👯 I’m looking to collaborate on **exciting and innovative projects that align with my skills and interests.**
 
 - 📫 How to reach me **mishrachhoti05@gmail.com**
 
