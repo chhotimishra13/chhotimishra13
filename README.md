@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chhoti mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhoti mishra" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/𝐂𝐡𝐡𝐨𝐭𝐢-𝐌𝐢𝐬𝐡𝐫𝐚-70150a237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhoti mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/chhoti_mishra_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chhoti_mishra_13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@c44607821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@c44607821" height="30" width="40" /></a>
+<a href="[https://www.hackerrank.com/@c44607821](https://www.hackerrank.com/profile/c44607821)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@c44607821" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
