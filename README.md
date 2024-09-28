@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/297e1667ff8088b19512a771403d5b921535c6b1abc61d1b32889c245a0b96e6/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e77656270">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMcRs8jZWXOHGjls32j0d3Wh2x9wrjuWBTQ&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhotimishra13&label=Profile%20views&color=0e75b6&style=flat" alt="chhotimishra13" /> </p>
 
@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/𝐂𝐡𝐡𝐨𝐭𝐢-𝐌𝐢𝐬𝐡𝐫𝐚" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhoti mishra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chhoti-mishra-70150a237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhoti mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/chhoti_mishra_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chhoti_mishra_13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@c44607821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@c44607821" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/c44607821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@c44607821" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
