@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhotimishra13&label=Profile%20views&color=0e75b6&style=flat" alt="chhotimishra13" /> </p>
 
-- 🌱 I’m currently learning **Web development & Java programming language.**
+- 🌱 I’m currently learning **Full Stack Development & Java programming language.**
 
 - 👯 I’m looking to collaborate on **exciting and innovative projects that align with my skills and interests.**
 
