@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMcRs8jZWXOHGjls32j0d3Wh2x9wrjuWBTQ&s">
+<img align="right" alt="coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02293768-9242-47e1-bf8f-d084ba0a2d1d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhotimishra13&label=Profile%20views&color=0e75b6&style=flat" alt="chhotimishra13" /> </p>
 
